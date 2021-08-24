@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qussong
+- 👋 Hi, I’m Qussong
 - 👀 I’m interested in creaating Web site
 - 🌱 I’m currently learning Java, HTML, CSS, Python
 - 💞️ I’m looking to collaborate on ...
