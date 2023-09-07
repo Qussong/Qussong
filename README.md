@@ -6,7 +6,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kih0976)](https://solved.ac/kih0976/)
 
 # Skills 💻
-### Platforms $ Language
+### Platforms & Language
 ![cpp](https://img.shields.io/badge/cpp-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/c-6CADDF.svg?&style=for-the-badge&logo=c&logoColor=white)
 
