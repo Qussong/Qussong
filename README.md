@@ -19,12 +19,13 @@ _Tools_<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kih0976)](https://solved.ac/kih0976/)
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Qussong"
-  width="400"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/Qussong?pet-id=647167602801760820"
+    width="300"
+    height="120"
+  />
 </a>
+  
 
 <!--
 [ 방문자 수 확인 ]
