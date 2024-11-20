@@ -21,7 +21,7 @@ _Tools_<br>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Qussong?pet-id=647167602801760820"
-    width="300"
+    width="600"
     height="120"
   />
 </a>
