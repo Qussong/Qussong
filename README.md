@@ -2,7 +2,9 @@
 **Qussong/Qussong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hello I'm **Gihoon KIM** 👻[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQussong&count_bg=%23EEE7CE&title_bg=%23BEB085&icon=&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello I'm Gihoon 😁
+
+<img src="eye.gif" width="400">
 
 ### Skills 💻
 _Platforms & Language_<br>
