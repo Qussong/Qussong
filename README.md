@@ -5,21 +5,29 @@
 
 <img src="pepe.gif" width="400">
 
-### _Platforms & Language_
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qussong&layout=compact)
--->
-![cpp](https://img.shields.io/badge/cpp-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![c](https://img.shields.io/badge/c-6CADDF.svg?&style=for-the-badge&logo=c&logoColor=white)
+### ⚡ _Tech Stack_
 
-### _Tools_
-![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white)
+#### 🖥️ Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### BOJ
+#### 🎮 Game Engines  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white)
+
+#### 🛠️ Tools & IDEs  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+#### 🔧 Version Control & Git Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Fork](https://img.shields.io/badge/Fork-303030?style=flat-square&logo=git&logoColor=white)
+
+### 🏆 _Algorithm Problem Solving_
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kih0976)](https://solved.ac/kih0976/)
+
+
 
 <!--
 [ 방문자 수 확인 ]
