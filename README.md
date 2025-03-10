@@ -6,11 +6,11 @@
 <img src="pepe.gif" width="400">
 
 ### _Platforms & Language_
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qussong&layout=compact)
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qussong&layout=compact)
+-->
 ![cpp](https://img.shields.io/badge/cpp-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/c-6CADDF.svg?&style=for-the-badge&logo=c&logoColor=white)
--->
 
 ### _Tools_
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
