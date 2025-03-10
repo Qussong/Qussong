@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=1ACD00&width=435&lines=Hello+I'm+Gihoon)](https://git.io/typing-svg)
 ---
 
-<img src="pepe.gif" width="400">
+<img src="pepe.gif" width="350">
 
 ### ⚡ _Tech Stack_
 
