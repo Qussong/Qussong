@@ -24,6 +24,8 @@
 #### 🔧 Version Control & Git Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Fork](https://img.shields.io/badge/Fork-303030?style=flat-square&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
 
 ### 🏆 _Algorithm Problem Solving_
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kih0976)](https://solved.ac/kih0976/)
