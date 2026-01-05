@@ -1,9 +1,8 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/?size=30&duration=4000&color=1ACD00&lines=Hello+I%27m+Gihoon -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=1ACD00&width=435&lines=Hello+I'm+Gihoon)](https://git.io/typing-svg)
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=F7F7F7&center=true&repeat=false&width=435&lines=Hello%2C+I'm+Gihoon+%3A)" alt="Typing SVG" /></a>
 
-
+<img src="pepe.gif" width="350">
 
 ### ⚡ **Tech Stack**
 
@@ -37,8 +36,6 @@
 #### 🏆 **Algorithm Problem Solving**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kih0976)](https://solved.ac/kih0976/)
 -->
-
-<img src="pepe.gif" width="350">
 
 <!--
 [ 방문자 수 확인 ]
